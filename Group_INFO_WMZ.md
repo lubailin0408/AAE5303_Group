@@ -32,6 +32,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **Brief Introduction:** I'm familiar with Python,C coding, aslo can do single-board computer desighn like stm32
 - **(individual) Assignment 1:** https://github.com/lubailin0408/PolyU-AAE5303-assaignment1-25128392G
 - **(individual) Assignment 2:** https://github.com/lubailin0408/AAE5303_assignment2_orbslam3_demo-
+- - **(individual) Reflection Report: https://github.com/lubailin0408/AAE5303_UNet/blob/main/AAE5303%20Robust%20Control%20Technology%20-%20Reflective%20Essay.docx
 
 ## Group Projects
 - **(group) Final project:** https://github.com/mcllouie/AAE5303_Final-project_--WMZ
